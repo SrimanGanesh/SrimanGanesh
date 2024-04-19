@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SrimanGanesh
-- 👀 I’m interested in Everything
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 9866203956
