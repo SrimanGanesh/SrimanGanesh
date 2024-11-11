@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrimanGanesh
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m an Automation Tester
+- 💞️ I’m looking to collaborat on ..
 - 📫 How to reach me 9866203956
 
 <!---
